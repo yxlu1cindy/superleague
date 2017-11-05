@@ -1,1 +1,1 @@
-# superleague
+# Calculate Scores on CTTSL
